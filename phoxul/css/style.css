@@ -607,13 +607,16 @@ img {
 .contact__testimonial--detail {
   padding-left: var(--padding-st-l-h);
   border-left: 1px solid var(--clr-quaternary);
+  font-size: var(--font-size-st-sc);
 }
 .contact__testimonial--info {
   display: flex;
+  align-items: center;
 }
 .contact__testimonial--info__img {
   height: 10rem;
   width: 10rem;
+  gap: 2rem;
 }
 .contact__testimonial--info__img img {
   height: 100%;
