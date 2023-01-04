@@ -612,11 +612,11 @@ img {
 .contact__testimonial--info {
   display: flex;
   align-items: center;
+  gap: 2rem;
 }
 .contact__testimonial--info__img {
   height: 10rem;
   width: 10rem;
-  gap: 2rem;
 }
 .contact__testimonial--info__img img {
   height: 100%;
